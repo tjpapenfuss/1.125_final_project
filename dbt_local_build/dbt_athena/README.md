@@ -1,4 +1,4 @@
-Welcome to my iuyfghjkfdbt project!
+Welcome to my class project!
 
 ### Using the starter project
 
